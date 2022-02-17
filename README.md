@@ -31,4 +31,4 @@ That's it! Best of luck on the rest of your assignments!
 * Message: "You're a wizard Harry"
 6. Kevin Delgado Pagán
 * https://www.linkedin.com/in/kevin-delgado-pag%C3%A1n-2bab4b15a/
-* Message: Siempre raitrú, nunca in-raitrú
+* Message: Siempre raitrú, nunca in-raitrú!
