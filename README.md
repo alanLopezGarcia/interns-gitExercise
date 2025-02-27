@@ -32,3 +32,6 @@ That's it! Best of luck on the rest of your assignments!
 6. Kevin Delgado Pagán
 * https://www.linkedin.com/in/kevin-delgado-pag%C3%A1n-2bab4b15a/
 * Message: Siempre raitrú, nunca in-raitrú!
+7. Anthony Martínez López
+* https://www.linkedin.com/in/anthony-martinez-523b1a258/
+* Message: Me preguntó como si no supiera nada. Que cuál era mi nombre y temblaba. Y yo le dije: "Yandel"; ella dijo: "no puede ser. Para mí es un placer conocerte"
