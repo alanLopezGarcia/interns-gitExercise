@@ -1,4 +1,5 @@
 # interns-gitExercise
+<<<<<<< HEAD
 Repository for Inteldot's interns git exercise.
 
 # Hello!
